@@ -1,2 +1,2 @@
 docker pull httpd
-MKDIR /app
+MKDIR /app/v1
